@@ -1,0 +1,7 @@
+C:\Progra 1B Clase 2\Laboratorio 2\Enunciado 1\bin\Debug\Enunciado 1.exe.config
+C:\Progra 1B Clase 2\Laboratorio 2\Enunciado 1\bin\Debug\Enunciado 1.exe
+C:\Progra 1B Clase 2\Laboratorio 2\Enunciado 1\bin\Debug\Enunciado 1.pdb
+C:\Progra 1B Clase 2\Laboratorio 2\Enunciado 1\obj\Debug\Enunciado 1.csproj.AssemblyReference.cache
+C:\Progra 1B Clase 2\Laboratorio 2\Enunciado 1\obj\Debug\Enunciado 1.csproj.CoreCompileInputs.cache
+C:\Progra 1B Clase 2\Laboratorio 2\Enunciado 1\obj\Debug\Enunciado 1.exe
+C:\Progra 1B Clase 2\Laboratorio 2\Enunciado 1\obj\Debug\Enunciado 1.pdb
